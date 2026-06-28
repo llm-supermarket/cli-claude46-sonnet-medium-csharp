@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/llm-supermarket/cli-claude46-sonnet-medium-csharp/releases/download/v0.0.1/cli-claude46-sonnet-medium-csharp-windows-amd64.exe",
-      "hash": "placeholder",
+      "hash": "7e47f5e52e1f3585c52298537739e448fa48a22e1288abb61a8d7bb2666d5878",
       "bin": [
         [
           "cli-claude46-sonnet-medium-csharp-windows-amd64.exe",
