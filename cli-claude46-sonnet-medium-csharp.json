@@ -1,0 +1,18 @@
+{
+  "homepage": "https://github.com/llm-supermarket/cli-claude46-sonnet-medium-csharp",
+  "description": "CLI tool for rclone-compatible file encryption and decryption",
+  "version": "0.0.1",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/llm-supermarket/cli-claude46-sonnet-medium-csharp/releases/download/v0.0.1/cli-claude46-sonnet-medium-csharp-windows-amd64.exe",
+      "hash": "placeholder",
+      "bin": [
+        [
+          "cli-claude46-sonnet-medium-csharp-windows-amd64.exe",
+          "cli-claude46-sonnet-medium-csharp"
+        ]
+      ]
+    }
+  }
+}
